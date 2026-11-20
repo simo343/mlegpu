@@ -1,0 +1,25 @@
+# Core
+numpy
+scipy
+pandas
+matplotlib
+jax
+jaxopt
+
+# Image / data I/O
+tifffile
+scikit-image
+Pillow
+pims
+dcimg
+mat73
+
+# Analysis / plotting / UI
+scikit-learn
+plotly
+dash
+ipywidgets
+tqdm
+
+# Only for examples/single_molecule_image_demo.py
+aotools
