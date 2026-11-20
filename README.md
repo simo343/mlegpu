@@ -48,8 +48,8 @@ All lengths are in nanometres. Photon counts refer to photons in the back focal 
 
 ## Citation
 
-TODO
+Citation details will be added upon posting a preprint or publication of the accompanying manuscript.
 
 ## License
 
-TODO
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
