@@ -18,7 +18,7 @@ Citation details will be added upon posting a preprint or publication of the acc
 ## Installation
 
 ```bash
-git clone https://github.com/TODO/mlegpu.git
+git clone https://github.com/simo343/mlegpu.git
 cd mlegpu
 pip install -r requirements.txt
 pip install -U "jax[cuda12]"   # GPU support (Linux / WSL2)
