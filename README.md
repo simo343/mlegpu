@@ -2,6 +2,10 @@
 
 GPU-accelerated (JAX) maximum-likelihood 3D localization of single molecules with a vectorial PSF model.
 
+<p align="center">
+  <img src="docs/logo.svg" alt="mlegpu" width="480">
+</p>
+
 Code accompanying:
 
 *Three-dimensional single-molecule tracking in living cells with isotropic precision of 15 nm.*
