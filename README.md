@@ -1,18 +1,14 @@
 # mlegpu
 
-GPU-accelerated (JAX) maximum-likelihood 3D localization of single molecules with a vectorial PSF model.
-
 <p align="center">
   <img src="docs/logo.svg" alt="mlegpu" width="480">
 </p>
 
+GPU-accelerated (JAX) maximum-likelihood 3D localization of single molecules with a vectorial PSF model.
+
 Code accompanying:
 
-*Three-dimensional single-molecule tracking in living cells with isotropic precision of 15 nm.*
-
-**Anna Gaugutz<sup>1</sup>, Lukas Velas<sup>1,2</sup>, Elena Georgiou<sup>3</sup>, Julian Maloberti<sup>4</sup>, Simon Moser<sup>4</sup>, Alexander Jesacher<sup>4</sup>, Marina Bishara<sup>1</sup>, Johannes B. Huppa<sup>5,6,7</sup>, Stefan Howorka<sup>3,8,\*</sup>, Gerhard J. Schütz<sup>1,\*</sup>**
-
-<sup>\*</sup> Corresponding authors 
+Citation details will be added upon posting a preprint or publication of the accompanying manuscript.
 
 ## Requirements
 
